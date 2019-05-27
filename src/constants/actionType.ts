@@ -1,0 +1,1 @@
+export const SEARCH_HOT = 'SEARCH_HOT';
